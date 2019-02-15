@@ -1,2 +1,3 @@
 # hello-world
-Testing
+
+This file is used for testing purposes only.
